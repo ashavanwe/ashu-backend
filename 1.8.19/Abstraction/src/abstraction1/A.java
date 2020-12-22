@@ -4,7 +4,7 @@ public abstract class A
 {
 	 public void m1()
 	 {
-	  System.out.println("m1--A");
+	  System.out.println("m1--aaaaaa");
 	 }
 		 public void m2()
 		  {
